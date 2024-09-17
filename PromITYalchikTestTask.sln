@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromITYalchikTestTask.ORM", "PromITYalchikTestTask.ORM\PromITYalchikTestTask.ORM.csproj", "{9FED06EE-FE4E-4414-ADA8-22C5A40A1E22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FED06EE-FE4E-4414-ADA8-22C5A40A1E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FED06EE-FE4E-4414-ADA8-22C5A40A1E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FED06EE-FE4E-4414-ADA8-22C5A40A1E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FED06EE-FE4E-4414-ADA8-22C5A40A1E22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF5F14D7-C8F2-4CFB-B4D3-6DCDF1EBE587}
+	EndGlobalSection
+EndGlobal
